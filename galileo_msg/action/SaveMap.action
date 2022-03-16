@@ -1,0 +1,8 @@
+# Define the goal
+string map_name  # Specify which dishwasher we want to use
+---
+# Define the result
+bool save_result
+---
+# Define a feedback message
+float32 percent_complete

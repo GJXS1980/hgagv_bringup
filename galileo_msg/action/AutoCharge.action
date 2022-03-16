@@ -1,0 +1,12 @@
+# Define the goal
+float32 x
+float32 y
+float32 angle
+int32 method # 0 normal , 1 force
+bool use_local # false use goal.xyz ,true use dock_station.txt value
+---
+# Define the result
+bool result
+---
+# Define a feedback message
+string status

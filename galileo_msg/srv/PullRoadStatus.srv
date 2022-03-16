@@ -1,0 +1,6 @@
+string robot_id
+bool lock_flag
+---
+int32 code
+string error_message
+string road_layout
